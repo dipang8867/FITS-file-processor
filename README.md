@@ -2,8 +2,6 @@
 
 A user-friendly GUI tool for extracting metadata from astronomical FITS files. This tool helps astronomers and researchers easily extract key information from multiple FITS files and compile it into a well-organized CSV file.
 
-![FITS File Information Extractor Interface](screenshots/interface.png)
-
 ## Features
 
 - 📊 Extract essential FITS header information:
