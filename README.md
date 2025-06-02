@@ -20,7 +20,7 @@ A user-friendly GUI tool for extracting metadata from astronomical FITS files. T
 ### On Linux/Mac:
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/fits-info-extractor.git
+   git clone https://github.com/dipang8867/fits-info-extractor.git
    cd fits-info-extractor
    ```
 
@@ -32,7 +32,7 @@ A user-friendly GUI tool for extracting metadata from astronomical FITS files. T
 ### On Windows:
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/fits-info-extractor.git
+   git clone https://github.com/dipang8867/fits-info-extractor.git
    cd fits-info-extractor
    ```
 
